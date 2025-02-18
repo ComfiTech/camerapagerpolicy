@@ -1,4 +1,4 @@
-Effective Date: 2/18/25
+Effective Date: February 18, 2025
 
 # Introduction Camera Pager:
 We respect your privacy and are committed to protecting any personal information you provide while using our application. This Privacy Policy explains what data we collect, how we use and store it, and whether third parties have access to it.
